@@ -1,0 +1,4 @@
+git init
+git add app.py requirements.txt
+git commit -m "Initial dashboard"
+git push origin main
